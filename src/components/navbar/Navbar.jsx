@@ -15,10 +15,10 @@ const Navbar = () => {
         </div>
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
-          <p><a href="#wgpt3">About</a></p>
-          <p><a href="#possibility">Projects</a></p>
-          <p><a href="#features">Services</a></p>
-          <p><a href="#blog">Contact</a></p>
+          <p><a href="#about">About</a></p>
+          <p><a href="#projects">Projects</a></p>
+          <p><a href="#services">Services</a></p>
+          <p><a href="#contact">Contact</a></p>
         </div>
       </div>
       <div className="gpt3__navbar-sign">
