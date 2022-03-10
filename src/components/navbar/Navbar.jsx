@@ -33,9 +33,9 @@ const Navbar = () => {
         <div className="gpt3__navbar-menu_container scale-up-center">
           <div className="gpt3__navbar-menu_container-links">
             <p><a href="#home">Home</a></p>
-            <p><a href="#wgpt3">What is Cyber Digital, llc?</a></p>
-            <p><a href="#possibility">Projects</a></p>
-            <p><a href="#features">Services</a></p>
+            <p><a href="#cyberDigital">What is Cyber Digital, llc?</a></p>
+            <p><a href="#projects">Projects</a></p>
+            <p><a href="#services">Services</a></p>
             <p><a href="#blog">Contact</a></p>
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
