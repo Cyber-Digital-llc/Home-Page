@@ -5,13 +5,13 @@ import './brand.css';
 const Brand = () => (
   <div className="gpt3__brand section__padding">
     <div>
-      <img src={cssWhiteLogo} />
+      {/* <img src={cssWhiteLogo} /> */}
     </div>
     <div>
-      <img src={html5whiteLogo} />
+      {/* <img src={html5whiteLogo} /> */}
     </div>
     <div>
-      <img src={nodeJslogo} />
+      {/* <img src={nodeJslogo} /> */}
     </div>
     <div>
       <img src={reactLogo} />
