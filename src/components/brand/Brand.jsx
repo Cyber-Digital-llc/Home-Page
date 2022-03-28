@@ -1,23 +1,14 @@
 import React from 'react';
-import { shopify, cssWhiteLogo, html5whiteLogo, nodeJslogo, reactLogo } from './imports';
+import { shopify, reactLogo } from './imports';
 import './brand.css';
 
 const Brand = () => (
   <div className="gpt3__brand section__padding">
     <div>
-      {/* <img src={cssWhiteLogo} /> */}
+      <img src={reactLogo} alt="react-logo" />
     </div>
     <div>
-      {/* <img src={html5whiteLogo} /> */}
-    </div>
-    <div>
-      {/* <img src={nodeJslogo} /> */}
-    </div>
-    <div>
-      <img src={reactLogo} />
-    </div>
-    <div>
-      <img src={shopify} />
+      <img src={shopify} alt="shopify-logo" />
     </div>
   </div>
 );
