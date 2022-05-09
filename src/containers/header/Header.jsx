@@ -7,11 +7,11 @@ const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
       <h1 className="gradient__text">
-        We Offer Custom Website development and Web Application Development{' '}
+        We Offer Custom Web Application Development{' '}
       </h1>
       <p>Let&apos;s build something amazing together! </p>
       <p>
-        Let Cyber Digital, llc design your e-commerce website using a platform
+        Let Cyber Digital, llc design your website using a platform
         or build one from the bottom up.
       </p>
 
