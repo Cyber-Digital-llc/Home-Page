@@ -1,7 +1,7 @@
-import React from 'react';
+import React from 'react'
 // import people from '../../assets/people.png';
 // import ai from '../../assets/ai.png';
-import './header.css';
+import './header.css'
 
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
@@ -11,12 +11,16 @@ const Header = () => (
       </h1>
       <p>Let&apos;s build something amazing together! </p>
       <p>
-        Let Cyber Digital, llc design your website using a platform
-        or build one from the bottom up.
+        Let Cyber Digital, llc design your website using a platform or build one
+        from the bottom up.
       </p>
 
       <div className="gpt3__header-content__input">
-        <input type="email" placeholder="Your Email Address" aria-label="label" />
+        <input
+          type="email"
+          placeholder="Your Email Address"
+          aria-label="label"
+        />
         <button type="button">Get Started</button>
       </div>
 
@@ -30,6 +34,6 @@ const Header = () => (
       {/* <img src={ai} alt="headerImg"/> */}
     {/* </div> */}
   </div>
-);
+)
 
-export default Header;
+export default Header
